@@ -21,10 +21,6 @@
 <!-- profile updater begin: qiita -->
 <!-- profile updater end: qiita -->
 
-# connpass Events
-
-<!-- profile updater begin: connpass -->
-<!-- profile updater end: connpass -->
 
 
 <!--
