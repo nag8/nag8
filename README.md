@@ -6,7 +6,7 @@
   <a href="https://zenn.dev/nag8"><img src="https://badgen.org/img/zenn/nag8/articles?style=for-the-badge" alt="Articles" /></a>
   <a href="https://zenn.dev/nag8?tab=books"><img src="https://badgen.org/img/zenn/nag8/books?style=for-the-badge" alt="Books" /></a>
   <a href="https://qiita.com/nintia8"><img src="https://badgen.org/img/qiita/nintia8/contributions?style=for-the-badge" alt="Contributions" /></a>
-  <a href="https://qiita.com/nintia8"><img src="https://badgen.org/img/qiita/nintia8/contributions?style=for-the-badge" alt="Contributions" /></a>
+  <a href="https://qiita.com/nintia8"><img src="https://badgen.org/img/qiita/nintia8/articles?style=for-the-badge" alt="Articles" /></a>
 </p>
 
 
