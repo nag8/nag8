@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: kumackey/profile-updater@main
+      - uses: kumackey/profile-updater@v1
         with:
           zenn_user_id: nag8
           qiita_user_id: nintia8
