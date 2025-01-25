@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<!--https://github.com/antonkomarev/github-profile-views-counter-->
+<p align="left">
+  <a href="https://github.com/nag8/nag8/">
+    <img src="https://komarev.com/ghpvc/?username=nag8&color=green" alt="nag8" />
+  </a>
+  <a href="http://qiita.com/nag8">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/nag8/posts.svg" />
+  </a>
+</p>
 <!--
 **nag8/nag8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
