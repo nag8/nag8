@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=nag8&color=green" alt="nag8" />
   </a>
   <a href="http://qiita.com/nag8">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nag8/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/nintia8/posts.svg" />
   </a>
 </p>
 <!--
