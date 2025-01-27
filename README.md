@@ -14,11 +14,11 @@
 # Zenn Articles
 
 <!-- profile updater begin: zenn -->
+- Jan 26 [社内docは技術ブログに書けないか(一部だけでも公開できないか)検討しよう](https://zenn.dev/nag8/articles/a441a46f0a9832)
 - Jan 25 [コードレビューを、品質ではなくて健康的と表現しよう](https://zenn.dev/nag8/articles/7da60691935b09)
 - Jan 24 [証跡の手動操作はやめよう](https://zenn.dev/nag8/articles/d6339152e885ac)
 - Jan 8 [周辺システム: どこを内製することになるか](https://zenn.dev/nag8/articles/f40561baa85a0e)
 - Jan 7 [PCを寄贈した](https://zenn.dev/lancers/articles/ba30e4dccc7261)
-- Jan 4 [GAS 入門編: Googleスプレッドシートで動くプログラムを書いて自動化しよう](https://zenn.dev/nag8/books/460621b845e44b)
 <!-- profile updater end: zenn -->
 
 # Qiita Articles
