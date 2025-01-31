@@ -31,6 +31,10 @@
 - Aug 14 [kintoneからspreadsheetに情報を転記する（簡易版ver2）](https://qiita.com/nintia8/items/1dc8ba862f4687cd83be)
 <!-- profile updater end: qiita -->
 
+# lapras
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 # インタビュー動画
 [![インタビュー動画](https://github.com/user-attachments/assets/0a607852-8767-46ed-981c-da9612745a77)](https://www.youtube.com/watch?v=z0SGMElT6jI)
 
