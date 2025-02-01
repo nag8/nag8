@@ -40,6 +40,13 @@ Last Updated on 2/1/2025, 1:22:26 AM</p>
 # インタビュー動画
 [![インタビュー動画](https://github.com/user-attachments/assets/0a607852-8767-46ed-981c-da9612745a77)](https://www.youtube.com/watch?v=z0SGMElT6jI)
 
+# タイピング
+https://www.e-typing.ne.jp/roma/check/
+
+2025/02/01
+
+![FireShot Capture 359 - 腕試しレベルチェック - インターネットでタイピング練習 イータイピング - e-typing ローマ字タイピング_ - www e-typing ne jp](https://github.com/user-attachments/assets/e6443ceb-6c58-4e80-bee0-5fbb89346ade)
+
 <!--
 **nag8/nag8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
