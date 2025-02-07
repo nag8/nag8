@@ -21,11 +21,11 @@ Last Updated on 2/7/2025, 1:19:31 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Feb 6 [[GAS] 定期的にGitHub issueを作成する](https://zenn.dev/nag8/articles/56a257f9adbdae)
 - Feb 5 [GitHub tips](https://zenn.dev/nag8/articles/b1e97347c2f4f6)
 - Feb 3 [バクラク tips](https://zenn.dev/nag8/articles/a2cfba619cf2e7)
 - Feb 1 [akerunから出社データをスプレッドシートに出す](https://zenn.dev/nag8/articles/ba30358868e14d)
 - Jan 30 [[GAS] GmailをNotionに保存](https://zenn.dev/nag8/articles/613dff2c3b3ef8)
-- Jan 29 [make(integromat) tips](https://zenn.dev/nag8/articles/b910df1ebe4af6)
 <!-- profile updater end: zenn -->
 
   </td>
