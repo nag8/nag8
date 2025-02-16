@@ -21,11 +21,11 @@ Last Updated on 2/16/2025, 1:25:44 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Feb 15 [freee業務委託管理からファイルをバックアップする](https://zenn.dev/nag8/articles/65f87441a980ab)
 - Feb 13 [文字列が一致しない場合に調べること](https://zenn.dev/nag8/articles/cf13bd82030623)
 - Feb 11 [GitHub issue本文の日付を元に自動アサイン、自動クローズを行う](https://zenn.dev/nag8/articles/a2b5f5823586fd)
 - Feb 6 [[GAS] 定期的にGitHub issueを作成する](https://zenn.dev/nag8/articles/56a257f9adbdae)
 - Feb 5 [GitHub tips](https://zenn.dev/nag8/articles/b1e97347c2f4f6)
-- Feb 3 [バクラク tips](https://zenn.dev/nag8/articles/a2cfba619cf2e7)
 <!-- profile updater end: zenn -->
 
   </td>
