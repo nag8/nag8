@@ -21,11 +21,11 @@ Last Updated on 3/6/2025, 1:23:33 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Mar 5 [役職を新設したいと言われたら](https://zenn.dev/nag8/articles/efd0fb9f00dae7)
 - Feb 22 [権限空域ガバナンス:会社をチーム集合体として捉え、制限空域を与える](https://zenn.dev/nag8/articles/8dd3d9347a651c)
 - Feb 15 [freee業務委託管理からファイルをバックアップする](https://zenn.dev/nag8/articles/65f87441a980ab)
 - Feb 13 [文字列が一致しない場合に調べること](https://zenn.dev/nag8/articles/cf13bd82030623)
 - Feb 11 [GitHub issue本文の日付を元に自動アサイン、自動クローズを行う](https://zenn.dev/nag8/articles/a2b5f5823586fd)
-- Feb 6 [[GAS] 定期的にGitHub issueを作成する](https://zenn.dev/nag8/articles/56a257f9adbdae)
 <!-- profile updater end: zenn -->
 
   </td>
