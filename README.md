@@ -9,7 +9,7 @@
 # lapras
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/nag8" target="_blank" rel="noopener noreferrer"><img alt="nag8のLAPRASでのスコアは次の通りです: エンジニアリング: 3.45 / 5.0, ビジネス: 3.36 / 5.0, インフルエンス: 3.27 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.45&b=3.36&i=3.27&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 3/6/2025, 1:23:33 AM</p>
+Last Updated on 3/7/2025, 1:23:54 AM</p>
 <!--END_SECTION:lapras-card-->
 
 # Zenn Articles
