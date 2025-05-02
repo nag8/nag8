@@ -21,11 +21,11 @@ Last Updated on 5/2/2025, 1:37:59 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- May 1 [googleFormからslackへ通知する](https://zenn.dev/lancers/articles/7e78fa66b747a5)
 - Apr 8 [端末&アカウントの需給予測を立てる](https://zenn.dev/lancers/articles/1cb20acf0b2eaa)
 - Mar 21 [bundleから端末リストを取得](https://zenn.dev/nag8/articles/eba864b8285ba2)
 - Mar 20 [markdown入門 簡単に文章を彩るには](https://zenn.dev/nag8/articles/0fd61d8805ea93)
 - Mar 5 [役職を新設したいと言われたら](https://zenn.dev/nag8/articles/efd0fb9f00dae7)
-- Feb 22 [権限空域ガバナンス:会社をチーム集合体として捉え、制限空域を与える](https://zenn.dev/nag8/articles/8dd3d9347a651c)
 <!-- profile updater end: zenn -->
 
   </td>
