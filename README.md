@@ -21,11 +21,11 @@ Last Updated on 5/8/2025, 1:39:48 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- May 8 [GoogleカレンダーAPIは参加場所が取得できない](https://zenn.dev/nag8/articles/8e419ca6f6f2e3)
+- May 7 [サーバログはSlackに出すべきか](https://zenn.dev/nag8/articles/5b37a958930fc8)
 - May 1 [googleFormからslackへ通知する](https://zenn.dev/lancers/articles/7e78fa66b747a5)
 - Apr 8 [端末&アカウントの需給予測を立てる](https://zenn.dev/lancers/articles/1cb20acf0b2eaa)
 - Mar 21 [bundleから端末リストを取得](https://zenn.dev/nag8/articles/eba864b8285ba2)
-- Mar 20 [markdown入門 簡単に文章を彩るには](https://zenn.dev/nag8/articles/0fd61d8805ea93)
-- Mar 5 [役職を新設したいと言われたら](https://zenn.dev/nag8/articles/efd0fb9f00dae7)
 <!-- profile updater end: zenn -->
 
   </td>
