@@ -21,11 +21,11 @@ Last Updated on 5/21/2025, 1:40:50 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- May 21 [kintoneを使ってパスワードを一括配布する](https://zenn.dev/nag8/articles/22d1e4fb098395)
 - May 12 [[GAS]jinjerからAPIで取得](https://zenn.dev/lancers/articles/3ab8b6761a489e)
 - May 8 [Googleカレンダーの予定(の一部)をSlackチャンネルに通知させる](https://zenn.dev/lancers/articles/8eb039dfdf69b1)
 - May 8 [GoogleカレンダーAPIは参加場所が取得できない](https://zenn.dev/nag8/articles/8e419ca6f6f2e3)
 - May 7 [サーバログはSlackに出すべきか](https://zenn.dev/nag8/articles/5b37a958930fc8)
-- May 1 [googleFormからslackへ通知する](https://zenn.dev/lancers/articles/7e78fa66b747a5)
 <!-- profile updater end: zenn -->
 
   </td>
