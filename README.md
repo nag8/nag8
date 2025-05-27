@@ -21,11 +21,11 @@ Last Updated on 5/27/2025, 1:39:28 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- May 26 [[corp-it]Chromebookを会社に導入した](https://zenn.dev/lancers/articles/cb268dc70108c3)
 - May 21 [kintoneを使ってパスワードを一括配布する](https://zenn.dev/lancers/articles/22d1e4fb098395)
 - May 12 [[GAS]jinjerからAPIで取得](https://zenn.dev/lancers/articles/3ab8b6761a489e)
 - May 8 [Googleカレンダーの予定(の一部)をSlackチャンネルに通知させる](https://zenn.dev/lancers/articles/8eb039dfdf69b1)
 - May 8 [GoogleカレンダーAPIは参加場所が取得できない](https://zenn.dev/nag8/articles/8e419ca6f6f2e3)
-- May 7 [サーバログはSlackに出すべきか](https://zenn.dev/nag8/articles/5b37a958930fc8)
 <!-- profile updater end: zenn -->
 
   </td>
