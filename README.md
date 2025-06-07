@@ -21,11 +21,11 @@ Last Updated on 6/7/2025, 1:40:26 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Jun 6 [縦深防御のアカウント管理](https://zenn.dev/nag8/articles/49aee1b99256ae)
 - Jun 3 [GWSのファイル管理](https://zenn.dev/nag8/articles/054bc4624940a5)
 - May 28 [新会社設立のときcorp-ITとしてやったこと](https://zenn.dev/lancers/articles/0c1e1f32dbbbb3)
 - May 26 [[corp-it]Chromebookを会社に導入した](https://zenn.dev/lancers/articles/cb268dc70108c3)
 - May 21 [kintoneを使ってパスワードを一括配布する](https://zenn.dev/lancers/articles/22d1e4fb098395)
-- May 12 [[GAS]jinjerからAPIで取得](https://zenn.dev/lancers/articles/3ab8b6761a489e)
 <!-- profile updater end: zenn -->
 
   </td>
