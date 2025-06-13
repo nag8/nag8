@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!--https://github.com/antonkomarev/github-profile-views-counter-->
-
+# Notebook LM
+https://notebooklm.google.com/notebook/c55ba546-5b98-4fa4-819e-c7bbdd930778
 
 # GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nag8&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
