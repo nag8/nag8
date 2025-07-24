@@ -22,11 +22,11 @@ Last Updated on 7/24/2025, 1:50:08 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Jul 23 [kintone責任分担ガバナンス 渋谷案](https://zenn.dev/nag8/articles/3acf8e76cf812c)
 - Jul 7 [キャプチャをPythonで取得](https://zenn.dev/nag8/articles/0b914da0139b71)
 - Jun 18 [RPAの市民開発化チャレンジ](https://zenn.dev/lancers/articles/326c2db07efb10)
 - Jun 6 [縦深防御のアカウント管理](https://zenn.dev/nag8/articles/49aee1b99256ae)
 - Jun 3 [GWSのファイル管理](https://zenn.dev/nag8/articles/054bc4624940a5)
-- May 28 [新会社設立のときcorp-ITとしてやったこと](https://zenn.dev/lancers/articles/0c1e1f32dbbbb3)
 <!-- profile updater end: zenn -->
 
   </td>
