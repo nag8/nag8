@@ -22,11 +22,11 @@ Last Updated on 8/6/2025, 1:53:38 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Aug 5 [corpITのシステム掌握レベル](https://zenn.dev/nag8/articles/3d0ba53d823644)
 - Aug 4 [chromebook tips](https://zenn.dev/nag8/articles/e6eec1f4936c31)
 - Jul 23 [kintone責任分担ガバナンス 渋谷案](https://zenn.dev/nag8/articles/3acf8e76cf812c)
 - Jul 7 [キャプチャをPythonで取得](https://zenn.dev/nag8/articles/0b914da0139b71)
 - Jun 18 [RPAの市民開発化チャレンジ](https://zenn.dev/lancers/articles/326c2db07efb10)
-- Jun 6 [縦深防御のアカウント管理](https://zenn.dev/nag8/articles/49aee1b99256ae)
 <!-- profile updater end: zenn -->
 
   </td>
