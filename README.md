@@ -22,11 +22,11 @@ Last Updated on 8/23/2025, 1:27:04 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Aug 22 [Googleカレンダーの予約スケジュールの予定をスプレッドシートに転記する](https://zenn.dev/lancers/articles/06a60731d613b1)
 - Aug 19 [bundleのアラート機能を試す: アカウント数が上限寸前なら通知](https://zenn.dev/lancers/articles/6e3752c3bdc1a5)
 - Aug 8 [PC置換の方針](https://zenn.dev/nag8/articles/02d92dfa744138)
 - Aug 5 [corpITのシステム掌握レベル](https://zenn.dev/nag8/articles/3d0ba53d823644)
 - Aug 4 [chromebook tips](https://zenn.dev/nag8/articles/e6eec1f4936c31)
-- Jul 23 [kintone責任分担ガバナンス 渋谷案](https://zenn.dev/nag8/articles/3acf8e76cf812c)
 <!-- profile updater end: zenn -->
 
   </td>
