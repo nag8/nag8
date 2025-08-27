@@ -22,11 +22,11 @@ Last Updated on 8/27/2025, 1:27:45 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Aug 26 [SmartHR→jinjerへ部署情報を更新する](https://zenn.dev/lancers/articles/5fd78fc19e54d4)
 - Aug 25 [GASのシステム群設計：銀苔設計](https://zenn.dev/nag8/articles/5f3092aae60d0f)
 - Aug 22 [Googleカレンダーの予約スケジュールの予定をスプレッドシートに転記する](https://zenn.dev/lancers/articles/06a60731d613b1)
 - Aug 19 [bundleのアラート機能を試す: アカウント数が上限寸前なら通知](https://zenn.dev/lancers/articles/6e3752c3bdc1a5)
 - Aug 8 [PC置換の方針](https://zenn.dev/nag8/articles/02d92dfa744138)
-- Aug 5 [corpITのシステム掌握レベル](https://zenn.dev/nag8/articles/3d0ba53d823644)
 <!-- profile updater end: zenn -->
 
   </td>
