@@ -22,11 +22,11 @@ Last Updated on 8/30/2025, 1:23:09 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Aug 29 [Notionで契約やSaaSを管理する](https://zenn.dev/nag8/articles/5f903007109d26)
 - Aug 28 [M&Aが決まったらcorp-ITがすること](https://zenn.dev/nag8/articles/5b3fc83db24f0f)
 - Aug 26 [SmartHR→jinjerへ部署情報を更新する](https://zenn.dev/lancers/articles/5fd78fc19e54d4)
 - Aug 25 [GASのシステム群設計：銀苔設計](https://zenn.dev/nag8/articles/5f3092aae60d0f)
 - Aug 22 [Googleカレンダーの予約スケジュールの予定をスプレッドシートに転記する](https://zenn.dev/lancers/articles/06a60731d613b1)
-- Aug 19 [bundleのアラート機能を試す: アカウント数が上限寸前なら通知](https://zenn.dev/lancers/articles/6e3752c3bdc1a5)
 <!-- profile updater end: zenn -->
 
   </td>
