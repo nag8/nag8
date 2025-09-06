@@ -22,11 +22,11 @@ Last Updated on 9/6/2025, 1:22:54 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Sep 5 [日報作成をカスタムGemとGASで効率化する](https://zenn.dev/nag8/articles/7c633cb9e1275f)
 - Aug 29 [Notionで契約やSaaSを管理する](https://zenn.dev/lancers/articles/5f903007109d26)
 - Aug 28 [M&Aが決まったらcorp-ITがすること](https://zenn.dev/nag8/articles/5b3fc83db24f0f)
 - Aug 26 [SmartHR→jinjerへ部署情報を更新する](https://zenn.dev/lancers/articles/5fd78fc19e54d4)
 - Aug 25 [GASのシステム群設計：銀苔設計](https://zenn.dev/nag8/articles/5f3092aae60d0f)
-- Aug 22 [Googleカレンダーの予約スケジュールの予定をスプレッドシートに転記する](https://zenn.dev/lancers/articles/06a60731d613b1)
 <!-- profile updater end: zenn -->
 
   </td>
