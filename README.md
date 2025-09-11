@@ -22,11 +22,11 @@ Last Updated on 9/11/2025, 1:26:02 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Sep 10 [[corp-IT]GoogleDriveの共有ドライブはどう管理するか](https://zenn.dev/nag8/articles/7db917ce799ef9)
 - Sep 9 [入社者が最初に開くのはアカウント管理SaaSにした](https://zenn.dev/lancers/articles/291ada1f5db5e5)
 - Sep 5 [日報作成をカスタムGemとGASで効率化する](https://zenn.dev/nag8/articles/7c633cb9e1275f)
 - Aug 29 [Notionで契約やSaaSを管理する](https://zenn.dev/lancers/articles/5f903007109d26)
 - Aug 28 [M&Aが決まったらcorp-ITがすること](https://zenn.dev/nag8/articles/5b3fc83db24f0f)
-- Aug 26 [SmartHR→jinjerへ部署情報を更新する](https://zenn.dev/lancers/articles/5fd78fc19e54d4)
 <!-- profile updater end: zenn -->
 
   </td>
