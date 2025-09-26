@@ -22,11 +22,11 @@ Last Updated on 9/26/2025, 1:25:09 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Sep 25 [[Gemini CLI]設計思想を言語化させ、その思想で開発させる](https://zenn.dev/nag8/articles/07ec9ca80e0774)
 - Sep 17 [kintoneこうしておけばよかった](https://zenn.dev/nag8/articles/7b8ff4431a78be)
 - Sep 16 [[corp-engr]プログラミングをしない技術](https://zenn.dev/nag8/articles/6e5000d041660a)
 - Sep 10 [[corp-IT]GoogleDriveの共有ドライブはどう管理するか](https://zenn.dev/nag8/articles/7db917ce799ef9)
 - Sep 9 [入社者が最初に開くのはアカウント管理SaaSにした](https://zenn.dev/lancers/articles/291ada1f5db5e5)
-- Sep 5 [日報作成をカスタムGemとGASで効率化する](https://zenn.dev/nag8/articles/7c633cb9e1275f)
 <!-- profile updater end: zenn -->
 
   </td>
