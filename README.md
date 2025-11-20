@@ -22,7 +22,7 @@ Last Updated on 11/20/2025, 1:38:28 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
-- Nov 18 [[BTCONJP2025] 情シスのカンファ参加レポート](https://zenn.dev/nag8/articles/11ffed7c93d55c)
+- Nov 18 [[BTCONJP2025] 情シスのカンファレンス参加レポート](https://zenn.dev/nag8/articles/11ffed7c93d55c)
 - Oct 20 [情シスBoost-up Projectのウェビナーで登壇したよ〜](https://zenn.dev/nag8/articles/5e6ea7728091db)
 - Oct 14 [[GWS管理者]Geminiの履歴を削除したいと言われたら](https://zenn.dev/nag8/articles/46f9996faae2ec)
 - Oct 2 [キャリアを書いていく、WithAIの時代の中で](https://zenn.dev/nag8/articles/b25297bc7815fb)
