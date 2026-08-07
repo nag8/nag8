@@ -22,11 +22,11 @@ Last Updated on 8/7/2026, 2:40:44 AM</p>
 <h2>Recent Articles</h2>
     
 <!-- profile updater begin: zenn -->
+- Aug 6 [Jamf tips](https://zenn.dev/nag8/articles/71a6b6b817743d)
 - Apr 20 [SlackをEnterprise Gridにした](https://zenn.dev/10q89s/articles/2c15c276432a9b)
 - Apr 2 [GWS管理者 tips](https://zenn.dev/nag8/articles/cdf24917639f06)
 - Jan 5 [コーポレートエンジニアとして2025年やったこと](https://zenn.dev/nag8/articles/06f3f824640a56)
 - Dec 14 [生成AIってポケモンに似てるよね論](https://zenn.dev/nag8/articles/59c330929b8a87)
-- Nov 18 [[BTCONJP2025] 情シスのカンファレンス参加レポート](https://zenn.dev/nag8/articles/11ffed7c93d55c)
 <!-- profile updater end: zenn -->
 
   </td>
